@@ -11,9 +11,9 @@
   "author": "Matt Hinchliffe / Rob Chambers",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lonestartemplates/lst-easyzoom.git"
+    "url": "git@github.com:lonestartemplates/lst-zoom-swap.git"
   },
-  "homepage": "https://github.com/lonestartemplates/lst-easyzoom",
+  "homepage": "https://github.com/lonestartemplates/lst-zoom-swap",
   "license": "MIT",
   "scripts": {
     "test": "grunt jshint && open test/runner.html"

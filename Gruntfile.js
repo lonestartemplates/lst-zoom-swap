@@ -16,8 +16,8 @@ module.exports = function(grunt) {
             dist: {
                 files: [
                     {
-                        src: 'src/easyzoom.js',
-                        dest: 'dist/easyzoom.js'
+                        src: 'src/lst-zoom-swap.js',
+                        dest: 'dist/lst-zoom-swap.js'
                     }
                 ]
             }
